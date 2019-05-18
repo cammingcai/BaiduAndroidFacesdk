@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiduFaceSDKAndroid.iml" filepath="$PROJECT_DIR$/BaiduFaceSDKAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faceplatform/faceplatform.iml" filepath="$PROJECT_DIR$/faceplatform/faceplatform.iml" />
+      <module fileurl="file://E:\baidu\BaiduFaceSDKAndroid\facesdk_mobile_android.iml" filepath="E:\baidu\BaiduFaceSDKAndroid\facesdk_mobile_android.iml" />
+    </modules>
+  </component>
+</project>
